@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayan200013&label=Profile%20views&color=0e75b6&style=flat" alt="rayanbouezzeddine" /> </p>
 
-- 🔭 I’m currently working on [Mingo AR Classroom is an augmented reality (AR) educational app aimed at teens to gamify the learning experience. The app combines the power of AR with engaging gameplay to create an immersive and interactive learning environment.](https://github.com/danielawde9/MingoARClassroom)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
