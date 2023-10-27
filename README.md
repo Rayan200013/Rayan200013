@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rayan Bouezzeddine</h1>
-<h3 align="center">My name is Rayan Bouezzeddine, and I am a web and application developer with over 1 year of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects</h3>
+<h3 align="center">My name is Rayan Bouezzeddine, and I am a web application developer with over 1 year of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayan200013&label=Profile%20views&color=0e75b6&style=flat" alt="rayanbouezzeddine" /> </p>
@@ -31,6 +31,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielawde9&show_icons=true&locale=en&layout=compact" alt="danielawde9" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanbouezzeddine&show_icons=true&locale=en&layout=compact" alt="rayanbouezzeddine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielawde9&" alt="danielawde9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayanbouezzeddine&" alt="rayanbouezzeddine" /></p>
