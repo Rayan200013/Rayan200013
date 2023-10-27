@@ -30,8 +30,8 @@
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
 </a>
- <a href="https://material.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original-wordmark.svg" alt="material ui" width="40" height="40" />
+<a href="https://material.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original-wordmark.svg" alt="Material-UI" width="40" height="40" />
 </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
@@ -52,6 +52,18 @@
 </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS Code" width="40" height="40" />
+</a>
+ <a href="https://trello.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" />
+</a>
+ <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="XAMPP" width="40" height="40" />
+</a>
+<a href="https://elementor.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elementor/elementor-plain.svg" alt="Elementor" width="40" height="40" />
+</a>
    </p>
 
 
