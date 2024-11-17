@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rayan Bouezzeddine</h1>
-<h3 align="center">My name is Rayan Bouezzeddine, and I am a web application developer with over 1 year of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects</h3>
+<h3 align="center">My name is Rayan Bouezzeddine, and I am a web application developer with over 2 year of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayan200013&label=Profile%20views&color=0e75b6&style=flat" alt="rayanbouezzeddine" /> </p>
